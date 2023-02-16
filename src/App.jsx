@@ -7,7 +7,7 @@ import Terminales from './components/Terminales'
 function App() {
   const routes = useRoutes([
     {
-      path: '/',
+      path: '/login',
       element: <Login />,
     },
     {
